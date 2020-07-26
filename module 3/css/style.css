@@ -1,0 +1,23 @@
+body{
+    font-size: 16px;
+    background-color: aquamarine;
+}
+#header-nav {
+    background-color: cadetblue;
+}
+.navbar-brand{
+    font-size: 1.5em;
+}
+#nav-list{
+    background-color: #fff;
+    margin: 0;
+    Padding: 0;
+}
+#nav-list li{
+    color: darkgoldenrod;
+    text-align: center;
+}
+.icon-bar{
+    display: block;
+    position: relative;
+}
